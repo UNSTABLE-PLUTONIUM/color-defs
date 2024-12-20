@@ -46,4 +46,4 @@ bbwhite="\033[1;107m"
 
 # reset
 
-rset="\033[0m"
+reset="\033[0m"
