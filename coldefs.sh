@@ -44,6 +44,14 @@ bbmagenta="\033[1;105m"
 bbcyan="\033[1;106m"
 bbwhite="\033[1;107m"
 
+# foreground rgb color, requires true color support
+
+frgb="\033[38;2;"
+
+# background rgb color, requires true color support
+
+brgb="\033[48;3;"
+
 # reset
 
 reset="\033[0m"
