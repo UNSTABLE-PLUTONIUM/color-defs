@@ -50,7 +50,7 @@ frgb="\033[38;2;"
 
 # background rgb color, requires true color support
 
-brgb="\033[48;3;"
+brgb="\033[48;2;"
 
 # reset
 
