@@ -24,7 +24,7 @@ B stands for "background" and sets the bacground color to the color mentioned
 
 to use RGB values use
 
-`echo "${FRGB}*R*;*G*;*B*mLorem Ipsum${RESET}"`
+`echo "${FRGB}`*R*;*G*;*B*`mLorem Ipsum${RESET}"`
 
 replace *R*;*G*;*B* with your RGB values
 make sure you have no space in your values and separate them with a semicolon ";"
