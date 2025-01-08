@@ -20,6 +20,7 @@ for background colors;
 `echo "${B`*COLOR*`}Lorem Ipsum${RESET}"`
 
 replace *COLOR* with the color of your choice
+
 B stands for "background" and sets the bacground color to the color mentioned
 
 to use RGB values use
