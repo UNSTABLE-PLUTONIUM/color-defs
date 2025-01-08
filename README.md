@@ -17,7 +17,7 @@ and RESET resets the text to normal.
 
 for background colors;
 
-`echo "${B*COLOR*}Lorem Ipsum${RESET}"`
+`echo "${B`*COLOR*`}Lorem Ipsum${RESET}"`
 
 replace *COLOR* with the color of your choice
 B stands for "background" and sets the bacground color to the color mentioned
