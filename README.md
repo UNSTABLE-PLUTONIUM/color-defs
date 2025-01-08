@@ -6,7 +6,7 @@ add this line to your .bashrc
 
 and heres how to use it
 
-`echo "${F*COLOR*}Lorem Ipsum${RESET}"`
+`echo "${F`*COLOR*`}Lorem Ipsum${RESET}"`
 
 replace *COLOR* with the color of your choice
 
