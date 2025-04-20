@@ -24,6 +24,9 @@ white.
 ```
 
 for foreground, there is an 'F' before the color's name, like this `$FRED`
+
 and for background, instead of an 'F', there is a 'B', like this `$BRED`
+
 for bright colors, another 'B' before the color, like this `$FBRED`
+
 for RGB values, use `$FRGB` and `$BRGB` accordingly, like this `${FRGB}255;127;0m`
