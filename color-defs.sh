@@ -54,4 +54,6 @@ BRGB="\033[48;2;"
 
 # reset
 
-RESET="\033[0m"
+RESETFG="\033[39m"
+RESETBG="\033[49m"
+RESET="\033[39;49m"
